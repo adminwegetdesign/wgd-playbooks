@@ -6,7 +6,9 @@ AI is only as reliable as what it reads. Playbooks here help you decide what is 
 
 ## Playbooks
 
-_None published yet._
+| Playbook | What it gives you | Time |
+| --- | --- | --- |
+| [Knowledge-base starter](knowledge-base-starter/) | A plain-text knowledge base for one process, with rules an AI assistant can follow and a ten-question test | About 45 minutes |
 
 ## Pointers
 
