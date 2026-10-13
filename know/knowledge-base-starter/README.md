@@ -11,7 +11,7 @@ Set up a small, plain-text knowledge base for one business process, so an AI ass
 
 ## Linked Insight
 
-*Knowledge before AI* (link added on publication). This playbook puts steps 1 to 3 and step 5 into practice, and supports step 6.
+[Knowledge before AI: how to prepare your business information for AI](https://www.wegetdesign.com/insights/ai-automation-workflows/knowledge-before-ai?utm_source=github&utm_medium=referral&utm_campaign=cp1-know). This playbook puts steps 1 to 3 and step 5 into practice, and supports step 6.
 
 ## Who it's for
 
